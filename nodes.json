@@ -1,17 +1,33 @@
 {
   "nodes": [
     {
-      "name": "node 1 name",
-      "url": "node 1 url",
-      "port": node 1 port,
+      "name": "Seed Node 1",
+      "url": "69.10.35.254",
+      "port": 11898,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    },
+ {
+      "name": "Seed Node 2",
+      "url": "206.72.192.145",
+      "port": 11898,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    },
+ {
+      "name": "Seed Node 3",
+      "url": "	199.231.188.238",
+      "port": 11898t,
       "ssl": false,
       "fee": 0,
       "online": true
     },
     {
-      "name": "node 2 name",
-      "url": "node 2 url",
-      "port": node 2 port,
+      "name": "Seed Node 4",
+      "url": "199.231.188.241",
+      "port": 11898,
       "ssl": false,
       "fee": 0,
       "online": true
