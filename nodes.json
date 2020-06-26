@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "name": "node 1 name",
+      "url": "node 1 url",
+      "port": node 1 port,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    },
+    {
+      "name": "node 2 name",
+      "url": "node 2 url",
+      "port": node 2 port,
+      "ssl": false,
+      "fee": 0,
+      "online": true
+    }
+  ]
+}
